@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prabhanjanborkar93
 - 👀 I’m interested in Salesforce 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Java, Hibernate, Spring Boot, Salesforce Apex, Visualforce Pages.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Java, Python, Hibernate, Spring Boot, Salesforce Apex, Visualforce Pages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 💌 prabhanjanmborkar@gmail.com, 📞 8095341418, Profile: https://www.blendy.me/prabhanjanborkar
 <!---
